@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 16 08:08:47 2024
-
-@author: AB937LH
-"""
 #importing the libraries for data analyser
 import pandas as pd
 import numpy as np
